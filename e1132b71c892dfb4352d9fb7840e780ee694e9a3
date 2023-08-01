@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "62d4928f_639e4ae5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 160
+      },
+      "writtenOn": "2023-08-01T02:52:14Z",
+      "side": 1,
+      "message": "checked other custom rom sources and didnt see there are any other ppl have this. And it conflicts with my blob list ;)",
+      "revId": "e1132b71c892dfb4352d9fb7840e780ee694e9a3",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
